@@ -31,6 +31,10 @@ class ViewController: UIViewController {
         print("anotherOne")
         
     }
+    
+    func wannKnowHowtheesScar(){
+        print("My father was a drinker")
+    }
 
 }
 
