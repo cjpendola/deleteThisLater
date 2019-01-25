@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        iMBatman()
+        wheresRachel()
         // Do any additional setup after loading the view, typically from a nib.
     }
     
@@ -19,6 +21,10 @@ class ViewController: UIViewController {
         print("Where are the drugs")
     }
 
+    func wheresRachel(){
+        print("Where is rachel")
+
+    }
 
 }
 
