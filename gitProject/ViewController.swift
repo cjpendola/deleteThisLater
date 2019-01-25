@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         iMBatman()
         wheresRachel()
+        anotherOne()
         // Do any additional setup after loading the view, typically from a nib.
     }
     
@@ -24,6 +25,11 @@ class ViewController: UIViewController {
     func wheresRachel(){
         print("Where is rachel")
 
+    }
+    
+    func anotherOne(){
+        print("anotherOne")
+        
     }
 
 }
